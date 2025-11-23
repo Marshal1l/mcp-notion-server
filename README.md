@@ -92,12 +92,15 @@ python notionMcpServer.py
 
 ---
 
-## 安全提示
+## 测试
 
-- **不要把 Notion API Token 写入代码或提交到 GitHub**
-- 如果 Token 已经泄露，请立即在 Notion [Integrations](https://www.notion.so/my-integrations) 页面重置
+- Cherry Studio 提供 hosts 和 mcp-client 进行测试
+- Cherry Studio 项目地址：[https://github.com/CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+  ![demo](./images/demo.png)
 
-## 联系
+## 引用
 
 作者：Marshal1l
 项目地址：[https://github.com/Marshal1l/mcp-notion-server](https://github.com/Marshal1l/mcp-notion-server)
+
+参考：Official Notion MCP Server：[https://github.com/makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server)
